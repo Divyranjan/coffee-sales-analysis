@@ -1,4 +1,4 @@
-**☕ Coffee Sales Analytics & Market Expansion Strategy
+☕ Coffee Sales Analytics & Market Expansion Strategy
 🚀 End-to-End SQL-Driven Business Intelligence Project
 🧭 Executive Summary
 This project presents a holistic, data-centric analysis of a multi-city coffee retail business, transforming raw transactional data into strategic insights and actionable intelligence using SQL.
